@@ -23,3 +23,13 @@ Database:
 - Department management
 - Leave management module
 - RESTful API architecture
+
+## Demo Login Credentials
+
+Admin:
+- Username: admin@company.com
+- Password: admin123
+
+Employee:
+- Username: employee@company.com
+- Password: employee123
