@@ -38,25 +38,25 @@ Employee:
 ## Screenshots
 
 ### Login Page
-![Login Page](screenshots/Screenshot_2025-09-23_202734.png)
+![Login Page](Screenshot_2025-09-23_202734.png)
 
 ### Admin Employee Section
-![Admin Employee Section](screenshots/Screenshot_2025-11-02_192703.png)
+![Admin Employee Section](Screenshot_2025-11-02_192703.png)
 
 ### Admin Department Section
-![Admin Department Section](screenshots/Screenshot_2025-11-02_193308.png)
+![Admin Department Section](Screenshot_2025-11-02_193308.png)
 
 ### Admin Leave Section
-![Admin Leave Section](screenshots/Screenshot_2025-11-02_193456.png)
+![Admin Leave Section](Screenshot_2025-11-02_193456.png)
 
 ### Admin Project Section
-![Admin Project Section](screenshots/Screenshot_2025-11-02_194257.png)
+![Admin Project Section](Screenshot_2025-11-02_194257.png)
 
 ### Admin Dashboard Section
-![Admin Dashboard Section](screenshots/Screenshot_2025-11-02_194630.png)
+![Admin Dashboard Section](Screenshot_2025-11-02_194630.png)
 
 ### Employee Dashboard
-![Employee Dashboard](screenshots/Screenshot_2025-11-02_195426.png)
+![Employee Dashboard](Screenshot_2025-11-02_195426.png)
 
 ### Employee Attendance Section
-![Employee Attendance Section](screenshots/Screenshot_2025-11-02_201503.png)
+![Employee Attendance Section](Screenshot_2025-11-02_201503.png)
